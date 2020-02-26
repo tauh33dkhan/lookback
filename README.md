@@ -1,5 +1,5 @@
 # lookback
-lookback makes request to cdx endpoint of wayback web archive with the specified domain to get archived urls
+lookback makes request to wayback cdx endpoint with the supplied domain to get all the archived urls
 
 # usage
 
